@@ -1,0 +1,18 @@
+# python
+__pycache__
+
+# python-venv
+env
+
+# vscode
+.history
+
+# logs
+*.log
+
+# local files
+*.local
+.env
+
+# temp files
+*~
